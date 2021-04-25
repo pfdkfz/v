@@ -1,0 +1,10 @@
+nodejs
+ipympl
+ipyvolume
+scipy
+voila
+pandas
+numpy
+IPython
+ipywidgets
+plotly.express
