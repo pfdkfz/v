@@ -7,3 +7,6 @@ voila
 IPython
 ipympl
 ipyvolume
+bqplot
+scipy
+voila
