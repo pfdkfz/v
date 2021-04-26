@@ -1,9 +1,11 @@
+voila
+voila-material
+bqplot
 ipywidgets
 nodejs
 numpy
 pandas
-plotly     
-voila
+plotly
 IPython
 ipympl
 ipyvolume
