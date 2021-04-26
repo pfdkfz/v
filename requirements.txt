@@ -10,3 +10,4 @@ ipyvolume
 bqplot
 scipy
 voila
+nbconvert
